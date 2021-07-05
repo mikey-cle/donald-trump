@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/donald-trump/static/css/main.73983ff4.chunk.css",
+    "main.js": "/donald-trump/static/js/main.12f8d212.chunk.js",
+    "main.js.map": "/donald-trump/static/js/main.12f8d212.chunk.js.map",
+    "runtime-main.js": "/donald-trump/static/js/runtime-main.89f8b497.js",
+    "runtime-main.js.map": "/donald-trump/static/js/runtime-main.89f8b497.js.map",
+    "static/js/2.57daf230.chunk.js": "/donald-trump/static/js/2.57daf230.chunk.js",
+    "static/js/2.57daf230.chunk.js.map": "/donald-trump/static/js/2.57daf230.chunk.js.map",
+    "static/js/3.a6dd1bfe.chunk.js": "/donald-trump/static/js/3.a6dd1bfe.chunk.js",
+    "static/js/3.a6dd1bfe.chunk.js.map": "/donald-trump/static/js/3.a6dd1bfe.chunk.js.map",
+    "index.html": "/donald-trump/index.html",
+    "static/css/main.73983ff4.chunk.css.map": "/donald-trump/static/css/main.73983ff4.chunk.css.map",
+    "static/js/2.57daf230.chunk.js.LICENSE.txt": "/donald-trump/static/js/2.57daf230.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89f8b497.js",
+    "static/js/2.57daf230.chunk.js",
+    "static/css/main.73983ff4.chunk.css",
+    "static/js/main.12f8d212.chunk.js"
+  ]
+}
