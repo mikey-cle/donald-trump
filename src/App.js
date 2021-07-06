@@ -7,7 +7,7 @@ const App = () => {
 
   //FETCH
   const handlesFetch = async ()=>{
-    const response = await fetch("https://tronalddump.io/random/quote");
+    const response = await fetch("https://tronalddump.io/random/quote"); // add api inside these brackets. Call it with var.dataYouWant
     const data = await response.json();
     setData(data);
   }
